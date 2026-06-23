@@ -8,35 +8,35 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
 
 ---
 
-## Navigation
-
-### World
+## World
 - [[Timeline]] — full chronological spine from 2026 to the 2100s present day
 - [[Global Power Balance]] — summary of how nations relate to each other in the present day
+- [[FS-UT Relations]] — the cold war at the centre of the setting; dependency, propaganda, emigration
 
-### Events
+## Events
 - [[The Catalyst (2039)]] — the sovereign default and AI market crash that broke Country A
 - [[The War]] — the inter-conglomerate escalation conflict that nearly destroyed New Halcyon
 
-### Nations
+## Nations
 - [[The Federal States]] — Country A; eastern corporate strip; home of New Halcyon
   - [[New Halcyon Overview]]
-- [[The United Territories]] — Country G; western/midland collectivist state; food dependency lever
+- [[The United Territories]] — Country G; western/midland collectivist state; food and biological leverage
 - [[Country B]] — authoritarian-capitalist China-analogue
 - [[Country C]] — Japan-analogue; automation and AI-labour origin point
-- [[Country D]] — EU-analogue; regulated, stable, moral foil
+- [[Country D]] — EU-analogue; regulated, stable, SOMA-capable emigration destination
 - [[Country E]] — Nigeria-analogue; independent decentralised path
 - [[Country F]] — India-analogue; uneven SEZ-based adoption
 
-### Economy
+## Economy
 - [[The Reserve]] — privatised minting company; eroding credibility
 - [[Currency & Alternatives]] — crypto and closed-community currencies filling the gap
 - [[Synthetic Food]] — primary caloric consumption; micronutrient deficient
-- [[GMO Agricultural Imports]] — United Territories food exports; class marker
-- [[Roads & Infrastructure]] — manufacturer consortium + conglomerate top-up model
+- [[GMO Agricultural Imports]] — United Territories food exports; the micronutrient trap; class marker
+- [[Black Market Biologicals]] — UT-origin biological components; the emigration black market
+- [[Roads & Infrastructure]] — manufacturer consortium and conglomerate top-up model
 - [[Water Utility]] — unnamed utility company; pending
 
-### Factions
+## Factions
 - [[Faction Overview]] — tier structure summary
 - [[Conglomerate Structure]] — PepsiCo model; sectors and subsidiary logic
 - [[Security Forces Overview]]
@@ -49,12 +49,13 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
 - [[Commonweal]] — militia; ideologically-driven mutual aid
 - [[Gangs Convention & Index]] — naming convention and running index
 
-### Technology
-- [[AI & Automation]]
-- [[Synthetic Food Tech]]
+## Technology
+- [[Framework]] — what a framework is; SOMA vs proprietary; augment ownership models
+- [[AI & Automation]] — labour infrastructure; Country C's role
+- [[Synthetic Food Tech]] — how synthetic food is made; the micronutrient gap
 - [[Micronutrient Research]] — Federal States' unscaled nutrition pill programme
 
-### Meta
+## Meta
 - [[Aesthetic References]]
 - [[Open Questions]]
 - [[Naming Conventions]]

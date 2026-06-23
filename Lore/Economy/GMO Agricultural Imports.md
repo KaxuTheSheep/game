@@ -1,43 +1,69 @@
 ---
-tags: [economy, food, trade, united-territories, class]
+tags: [economy, food, trade, united-territories, class, micronutrient]
 ---
 
 # GMO Agricultural Imports
 
-*Food from [[The United Territories]]. Luxury item. Micronutrient delivery system. Political leverage made edible.*
+*Food from the United Territories. Luxury item in New Halcyon. The mechanism of the Federal States' most significant strategic vulnerability.*
 
 ---
 
 ## What They Are
 
-The United Territories' agricultural output comes from GMO-based factory-farms — industrial-scale biological laboratories producing food at high nutritional density, state-managed and scientifically intensive. The food is real in the sense that matters: it contains the micronutrients that [[Synthetic Food]] does not.
+The United Territories' agricultural output comes from GMO-based factory-farms — industrial-scale biological laboratories producing food at high nutritional density, state-managed and scientifically intensive. They are not farms in any traditional sense. They are biotech facilities that produce food as their output.
 
-In New Halcyon, United Territories food imports function less as a food category and more as a health supplement in food form. Eating them regularly is the primary way a New Halcyon resident avoids the long-term degradation effects of synthetic food dependency.
+The food contains micronutrients and biological compounds that [[Synthetic Food]] cannot replicate economically at scale. In New Halcyon, UT food imports function less as a food category and more as a biological maintenance system in edible form.
+
+---
+
+## The Micronutrient Trap
+
+The Federal States is not starving. Synthetic food solved calories decades ago. The problem is nutrition.
+
+Without UT food imports, the consequences for the Federal States are **gradual rather than immediate:**
+
+- Declining population health across the board
+- Rising medical costs that fall on conglomerate healthcare subsidiaries
+- Worsening Framework complications — many augments interact with biological systems and nutritional deficiency degrades that interaction over time
+- Reduced workforce quality compounding across generations
+- Social instability as health deterioration becomes impossible to ignore
+
+There is no single famine event that triggers a crisis. There is a slow degradation that is politically difficult to respond to precisely because it lacks a clean cause-and-effect moment. This is the trap: the dependency is real, the consequences of losing it are severe, and the gradual nature of those consequences makes them easy to defer addressing indefinitely.
 
 ---
 
 ## Class Marker
 
-- **Wealthy and corporate-adjacent:** regular consumption; access is assumed; visible in physical health over time
-- **Middle tier:** occasional; a meaningful expense; eaten for specific nutritional value rather than enjoyment
-- **Poor districts:** effectively inaccessible; synthetic food exclusively; deficiency conditions are a normal part of life in these areas
+In New Halcyon, access to UT food imports is one of the most visible class signals:
 
-Real food in New Halcyon carries the same social signal that organic or artisan food does in present-day wealthy cities — but the stakes are physiological rather than aesthetic.
+- **Wealthy and corporate-adjacent:** regular consumption; assumed; visible in physical health over time relative to synthetic-only diet
+- **Middle tier:** occasional; a meaningful expense; eaten for specific nutritional value
+- **Poor districts:** effectively inaccessible; synthetic food exclusively; deficiency conditions are a normal background feature of life
+
+The health difference between someone with regular access to real food and someone on exclusive synthetic consumption becomes physically legible over years and across generations.
 
 ---
 
-## The Leverage Dimension
+## Distribution and Control
 
-Every plate of imported United Territories food in New Halcyon is a reminder of the Federal States' structural dependency. The conglomerates that control import and distribution of these goods are in a sensitive position — they profit from the dependency while also being aware that the dependency is a strategic vulnerability. None of them have resolved this tension. All of them have contingency plans.
+Which conglomerate or conglomerates control the import and distribution of UT food into New Halcyon is a significant economic and political question — pending detailed design. Controlling that supply chain means controlling the most direct lever on New Halcyon's long-term population health.
+
+The [[Continental Freight Authority]] handles significant goods flows into New Halcyon, which places it adjacent to this question regardless of whether it formally controls food distribution.
+
+---
+
+## The UT's Position
+
+The United Territories does not use food exports as an overt diplomatic weapon — doing so would risk its own economic stability, since the Federal States remains its largest customer. The leverage exists but cannot be fully exercised without mutual damage. See [[FS-UT Relations]].
 
 ---
 
 ## Pending
 
-- Which conglomerate(s) control import and distribution
-- Whether the United Territories uses food exports as an active diplomatic tool or simply sells commercially
-- Black market dynamics for imported food in poor districts
+- Which conglomerate controls import and distribution
+- Whether the CFA has a formal or informal role in food logistics
+- Black market food access in poor districts — cost, availability, and supply chain
 
 ---
 
-*See [[Synthetic Food]], [[The United Territories]], [[Global Power Balance]].*
+*See [[Synthetic Food]], [[FS-UT Relations]], [[The United Territories]], [[Black Market Biologicals]], [[Continental Freight Authority]].*
