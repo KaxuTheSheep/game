@@ -1,7 +1,3 @@
----
-tags: [meta, open-questions, design, pending]
----
-
 # Open Questions
 
 *Unresolved design items. Updated as the project develops.*
@@ -49,11 +45,24 @@ tags: [meta, open-questions, design, pending]
 - [ ] Communications and data infrastructure ownership and access inequality
 - [ ] Whether any faction has an explicit position on automation
 
+## Augments
+
+- [ ] Proprietary framework named items — tied to specific conglomerate design (pending conglomerate naming)
+- [ ] Fitter profession street name — one word covering all tiers with adjective modifiers for each
+- [ ] Section status effects at 50% HP threshold — progressive damage system
+- [ ] Augment content catalogue — actual models, tiers, and stats for each slot category (balancing phase)
+- [ ] Bandwidth numerical values — qualitative language used for now, numbers needed for balancing
+- [ ] Which conglomerates manufacture which augment categories
+- [ ] Grey market and salvage augment ecosystem in forgotten districts — supply chains and quality range
+- [ ] Organ augment catalogue — performance and survival categories, specific items
+
 ## Game Design (Future)
 
 - [ ] Game format — not yet defined
 - [ ] Player character role and starting position in the city's faction structure
+- [ ] Combat system — section damage, status effects, augment interaction in combat
 - [ ] Off-world elements — flagged as possible but not developed
+- [ ] NPC goal and reputation system — dynamic story driver, public vs private reputation, fame mechanic
 
 ---
 

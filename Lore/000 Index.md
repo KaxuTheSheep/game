@@ -1,7 +1,3 @@
----
-tags: [index, hub]
----
-
 # New Halcyon — Master Index
 
 A theoretical game and worldbuilding project. A near-present-day world that drifts, country by country, into a 2100s where one city — **New Halcyon** — has no government at all. Only corporations, factions, and the people caught between them.
@@ -50,10 +46,15 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
 - [[Gangs Convention & Index]] — naming convention and running index
 
 ## Technology
-- [[Framework]] — what a framework is; SOMA vs proprietary; augment ownership models
+- [[Lore/Technology/Augments/Augment System Overview]] — what augmentation means culturally and economically in New Halcyon
+- [[Lore/Technology/Augments/Framework]] — SOMA vs proprietary; class implications; physical integration
+- [[Framework]] — original framework file; superseded by above, retained for reference
 - [[AI & Automation]] — labour infrastructure; Country C's role
 - [[Synthetic Food Tech]] — how synthetic food is made; the micronutrient gap
 - [[Micronutrient Research]] — Federal States' unscaled nutrition pill programme
+
+## NPCs
+- [[Lore/NPCs/Fitters]] — the augment installation profession; three tiers; education; economic reality
 
 ## Meta
 - [[Aesthetic References]]
