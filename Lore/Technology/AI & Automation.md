@@ -1,5 +1,5 @@
 ---
-tags: [technology, ai, automation, country-c]
+tags: [technology, ai, automation, country-c, robotics]
 ---
 
 # AI & Automation
@@ -16,6 +16,18 @@ What is specific to New Halcyon is the ownership structure: automated labour sys
 
 ---
 
+## AI Architecture — Multi-Agent, Not Monolithic
+
+AI in 2100 is not a single superintelligence. It is a distributed ecosystem of specialised agents coordinating through routing layers — different models handling different domains, passing information and tasks between each other, with emergent behaviour arising from their interaction rather than from any single system's decision.
+
+This architecture makes AI simultaneously more capable and more opaque. No single agent knows what the whole system is doing. Behaviour emerges from interactions that are difficult to audit from outside. For conglomerates this opacity is an asset — nobody can fully inspect or regulate a system whose outputs are the product of hundreds of coordinated specialists rather than a single inspectable model.
+
+Richer conglomerates have better-integrated agent networks with more sophisticated routing and coordination. Poorer factions have access to older, less-connected specialist models that handle individual tasks competently but do not coordinate as effectively. AI capability is something money can buy more of — another axis of inequality that feels earned rather than imposed.
+
+See [[Building Management Systems]] for the most developed example of this architecture in the setting.
+
+---
+
 ## Country C's Role
 
 The majority of New Halcyon's AI and robotics infrastructure traces back to [[Country C]] — hardware, software, and operational systems developed during Country C's forced-automation era and now licensed commercially worldwide. Country C sells to whoever pays, which in New Halcyon means the conglomerates.
@@ -24,13 +36,22 @@ The cultural aesthetic of AI labour in New Halcyon — Ghost in the Shell-influe
 
 ---
 
-## Pending
+## Robotics
 
-- Specific AI and automation systems in use
-- Whether androids/synthetic humans exist in this setting and at what level of sophistication
-- Legal and social status of automated workers (property, person, or something else entirely)
-- Whether any faction has a position on automation beyond pure economic calculation
+Robots in New Halcyon are purpose-built for specific tasks. The form follows the function. Most look like nothing biological — optimised geometry, no unnecessary features, no anthropomorphism where it does not serve the operational purpose.
+
+**The United Territories does not use conventional robotics.** The UT's automation approach is bioengineering — organisms rather than machines. Where the FS deploys a logistics robot, the UT has developed a biological system. This distinction matters for the FS-UT strategic picture: the UT's agricultural and industrial systems are biological, which makes them harder to attack with the electromagnetic and software vulnerabilities that affect FS robotic infrastructure.
+
+For detailed robotics documentation see [[Robotics]].
 
 ---
 
-*See [[Country C]], [[Synthetic Food Tech]], [[Conglomerate Structure]].*
+## Pending
+
+- Legal and social status of automated workers — property, person, or something else entirely
+- Whether any faction has a position on automation beyond pure economic calculation
+- Specific AI and automation systems in use beyond the building management architecture
+
+---
+
+*See [[Country C]], [[Robotics]], [[Building Management Systems]], [[Synthetic Food Tech]], [[Conglomerate Structure]].*

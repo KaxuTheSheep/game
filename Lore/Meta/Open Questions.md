@@ -17,7 +17,7 @@
 - [ ] District names, boundaries, culture, and controlling factions — full district design
 - [ ] Founding story detail — what specifically made New Halcyon survive Cities 1–X
 - [ ] Named figures from the founding era beyond Greyback's founder
-- [ ] Power and communications infrastructure ownership
+- [ ] Power and communications infrastructure ownership — which conglomerate or consortium owns the primary grid
 
 ## Economy
 
@@ -40,10 +40,14 @@
 
 ## Technology
 
-- [ ] Android/synthetic human status — do they exist, at what sophistication, what legal/social standing
+- [x] ~~Android/synthetic human status~~ — humanoid robots exist in two specific use cases: social interface roles and infiltration/surveillance. See [[Robotics]]
 - [ ] Which entities are running micronutrient research
-- [ ] Communications and data infrastructure ownership and access inequality
+- [x] ~~Communications and data infrastructure~~ — see [[Communications & Broadcasting]], [[Network Infrastructure]]
 - [ ] Whether any faction has an explicit position on automation
+- [ ] Fusion timeline specifics — which conglomerates have invested, which plants exist, where
+- [ ] Humanoid robot detection protocols — what verification exists in high-security contexts, what the arms race between detection and mimicry looks like
+- [ ] Design file black market — who produces, distributes, and controls access to print node design specifications for restricted hardware
+- [ ] The pharmaceutical company developing against Clarent's Prolamine-7 — their bioengineering capabilities, their relationship to the micronutrient research programme, their animal augment proprietary system
 
 ## Augments
 
@@ -53,15 +57,16 @@
 - [ ] Augment content catalogue — actual models, tiers, and stats for each slot category (balancing phase)
 - [ ] Bandwidth numerical values — qualitative language used for now, numbers needed for balancing
 - [ ] Which conglomerates manufacture which augment categories
-- [ ] Grey market and salvage augment ecosystem in forgotten districts — supply chains and quality range
+- [x] ~~Grey market and salvage augment ecosystem in forgotten districts~~ — partially addressed through feedstock and print node model in [[Manufacturing & Additive Production]], design files as commodity established
 - [ ] Organ augment catalogue — performance and survival categories, specific items
+- [ ] Venom compound variants — specific synthesised agents, their effects on augmented versus biological targets, supply chain sources
 
 ## Game Design (Future)
 
 - [ ] Game format — not yet defined
 - [ ] Player character role and starting position in the city's faction structure
 - [ ] Combat system — section damage, status effects, augment interaction in combat
-- [ ] Off-world elements — flagged as possible but not developed
+- [ ] Off-world elements — flagged as possible but not developed; Kessler syndrome established as making orbital access effectively closed
 - [ ] NPC goal and reputation system — dynamic story driver, public vs private reputation, fame mechanic
 
 ---
