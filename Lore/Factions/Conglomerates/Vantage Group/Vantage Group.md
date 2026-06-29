@@ -26,6 +26,18 @@ The post-War Vantage is significantly larger than the pre-War one, but the expan
 
 ---
 
+## The Ghost District
+
+Before Vantage adopted the city's common architectural grammar, they built one residential estate entirely to their own proprietary specifications — an early experiment in self-sufficient housing development that predates the standardisation they eventually accepted as economically necessary.
+
+The experiment failed. The estate was completed and populated, then gradually abandoned as services degraded and Vantage redirected investment toward standard-compliant development. The buildings remain. They still heal themselves. Vantage cannot reclaim the territory without methods disproportionate to its value, and cannot integrate the non-standard buildings into their current management infrastructure without documentation they no longer possess.
+
+The ghost district sits at the city's outskirts — technically Vantage property, practically nobody's. See [[The Vantage Ghost District]].
+
+This failed experiment is why Vantage adopted common standards with such thoroughness in all subsequent development. The cost of non-compatibility was demonstrated concretely enough that nobody in the organisation needed to make the argument again.
+
+---
+
 ## Character
 
 Performed neutrality and quiet confidence. Vantage does not need to perform warmth the way Clarent does — they own where you sleep, which is a more intimate form of control than what you eat. Their public language is about "integrated living environments," "community infrastructure," and "residential excellence." It is not warm exactly. It is calm. The language of a landlord who knows you have nowhere else to go but would prefer you not think about that.
@@ -84,4 +96,4 @@ Ultra elite residents — conglomerate executives, the genuinely wealthy — occ
 
 ---
 
-*See [[Vantage - Residential Portfolio]], [[Vantage - Military & Enforcement]], [[Vantage - Brands & Subsidiaries]], [[Clarent Group]], [[Ardent Systems]], [[The War]], [[Building Management Systems]].*
+*See [[The Vantage Ghost District]], [[Vantage - Residential Portfolio]], [[Vantage - Military & Enforcement]], [[Vantage - Brands & Subsidiaries]], [[Clarent Group]], [[Ardent Systems]], [[The War]], [[Building Management Systems]].*

@@ -46,14 +46,32 @@ This gap between material self-maintenance and institutional failure produces a 
 
 ---
 
+## The Non-Standard Variant — Vantage Ghost District
+
+The city standard for self-healing concrete uses specific bacterial strains, mineral additives, and structural implementations that have been refined over decades into a compatible, maintainable system. Almost all self-healing concrete in New Halcyon uses this standard.
+
+[[The Vantage Ghost District]] is the exception.
+
+During New Halcyon's founding period, before common architectural standards had consolidated, Vantage constructed their early residential estate using a proprietary self-healing concrete formulation developed in-house. The underlying mechanisms are identical — the same bacterial and mineral crystal approach — but the specific implementation differs: different bacterial strains, different additive ratios, different structural integration details.
+
+The result is concrete that heals itself just as effectively as the city standard, but is incompatible with every maintenance, management, and diagnostic system designed around the standard. Vantage's current teams cannot fully interpret what the buildings' systems are doing. The documentation for the original formulation is incomplete. The engineers who designed it are gone.
+
+This is why the ghost district cannot be reclaimed. The buildings are structurally sound and actively self-maintaining. They cannot be integrated into any current infrastructure without knowledge Vantage no longer possesses. And they cannot be conventionally demolished — damage is repaired faster than it can be inflicted without disproportionate methods.
+
+The non-standard variant is not inferior. It is simply isolated.
+
+---
+
 ## Class Implications
 
 **Conglomerate core buildings:** self-healing concrete standard in new construction and renovation, photovoltaic coating integrated into the same surface treatment, building management system monitoring structural sensors and dispatching maintenance robots for non-concrete faults. The building is as close to self-maintaining as current technology allows.
 
 **Mid-tier construction:** self-healing concrete may be present in newer buildings, absent in older ones. The maintenance contract covers the major systems but not comprehensively. Visible patching history alongside self-healing sections where different-era concrete meets.
 
-**Forgotten district buildings:** original construction from before self-healing concrete was standard, or self-healing concrete present but non-functional due to failed drainage or sealed surfaces that prevent water activation. Layers of different repair eras visible simultaneously — the building's history written in its fabric. Some sections of original concrete still structurally sound decades later through sheer quality of original construction. Other sections failing despite having the materials to heal themselves, because nobody fixed the drainage that would activate them.
+**Forgotten district buildings:** original construction from before self-healing concrete was standard, or self-healing concrete present but non-functional due to failed drainage or sealed surfaces that prevent water activation. Layers of different repair eras visible simultaneously — the building's history written in its fabric.
+
+**Ruins pockets:** pre-Catalyst New York construction. No self-healing concrete. No managed maintenance. What structural integrity remains is original — whatever survived the Catalyst era and subsequent decades of neglect. These buildings persist through the quality of their original construction, not through any active system.
 
 ---
 
-*See [[Energy Infrastructure]], [[Building Management Systems]], [[Roads & Infrastructure]], [[Layout & Aesthetic]].*
+*See [[Energy Infrastructure]], [[Building Management Systems]], [[Roads & Infrastructure]], [[Layout & Aesthetic]], [[Architecture Overview]], [[The Vantage Ghost District]], [[The Ruins Pockets]].*

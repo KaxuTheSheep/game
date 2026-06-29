@@ -16,6 +16,29 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
 ## Nations
 - [[The Federal States]] — Country A; eastern corporate strip; home of New Halcyon
   - [[New Halcyon Overview]]
+  - [[Founding Story]] — why New Halcyon survived; the site; the CFA's arrival; the Underground's origin
+
+### Geography
+  - [[Geography Overview]] — the city's physical layers; estuary, surface, underground, outskirts
+  - [[The Estuary & CFA Spine]] — the transformed Hudson; CFA infrastructure; vertical layers
+  - [[The Underground]] — inhabited sub-surface city; Ardent origin; independent culture
+  - [[The Underground Levels]] — Level -1 inhabited, Level -2 operational, Level -3 restricted
+  - [[The Outskirts]] — where conglomerate control ends; two distinct types
+  - [[The Ruins Pockets]] — pre-Catalyst New York construction; informal communities
+  - [[The Vantage Ghost District]] — failed early Vantage estate; self-healing but non-standard; near-empty
+
+### Layout & Aesthetic
+  - [[Layout & Aesthetic]] — district logic; vertical city; aesthetic references; outskirts
+
+### Architecture
+  - [[Architecture Overview]] — the city as ecosystem; applied engineering; accumulated layers
+  - [[Architectural Grammar]] — shared structural language; why it exists; what it specifies
+  - [[Corporate Architecture]] — identity within constraint; conglomerate architectural characters
+  - [[Infrastructure as Architecture]] — exposed services as visual language; territory marker
+
+### Districts
+  - [[Districts Overview]] — pending full design
+
 - [[The United Territories]] — Country G; western/midland collectivist state; food and biological leverage
 - [[Country B]] — authoritarian-capitalist China-analogue
 - [[Country C]] — Japan-analogue; automation and AI-labour origin point; front identity for Hariken
@@ -43,15 +66,15 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
   - [[Clarent - Brands & Subsidiaries]]
   - [[Clarent - Military & Enforcement]]
   - [[Haze]] — Prolamine-7; the buried 2050 research; cognitive effects
-- [[Vantage Group]] — residential infrastructure dominant; building data; cold war with Clarent
+- [[Vantage Group]] — residential infrastructure dominant; building data; cold war with Clarent; ghost district failure
   - [[Vantage - Residential Portfolio]] — vertical housing tiers; commissary system
   - [[Vantage - Military & Enforcement]] — building as weapon; data-informed enforcement
   - [[Vantage - Brands & Subsidiaries]]
-- [[Ardent Systems]] — augments and weapons dominant; post-War diminished; recovery strategy
+- [[Ardent Systems]] — augments and weapons dominant; post-War diminished; recovery strategy; Underground origin
   - [[Ardent - Augment & Weapons Manufacturing]] — 40% market share; durability philosophy; the vulnerability question
   - [[Ardent - Military & Enforcement]] — proprietary framework force; deployment doctrine; Greyback relationship
   - [[Ardent - Brands & Subsidiaries]] — Ironframe, Bastion, Ardent Medical
-- [[Continental Freight Authority]] — open infrastructure; Country B origin; internal fracture; Hariken
+- [[Continental Freight Authority]] — open infrastructure; Country B origin; internal fracture; Hariken; estuary spine
   - [[CFA - Internal Fracture]] — Root faction vs Independence faction; Country B withdrawal
   - [[CFA - Manufacturing Operations]] — secret augment production; feedstock from Country B; additive manufacturing
   - [[CFA - Hariken]] — front company; Country C cover story; known anomalies
@@ -67,6 +90,7 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
 - [[Greyback Company]] — militia; ex-Ardent Tier 1 veterans; founder character pinned
 - [[Commonweal]] — militia; ideologically-driven mutual aid
 - [[Gangs Convention & Index]] — naming convention and running index
+- [[Outskirts Community]] — informal population of the ruins pockets; individual motivations; non-conglomerate faction influence
 
 ## Technology
 - [[Lore/Technology/Augments/Augment System Overview]] — what augmentation means culturally and economically in New Halcyon
@@ -75,6 +99,14 @@ A theoretical game and worldbuilding project. A near-present-day world that drif
 - [[AI & Automation]] — labour infrastructure; Country C's role
 - [[Synthetic Food Tech]] — how synthetic food is made; the micronutrient gap
 - [[Micronutrient Research]] — Federal States' unscaled nutrition pill programme
+
+### Infrastructure
+- [[Network Infrastructure]] — terahertz wireless; vacuum optical trunks; coverage inequality
+- [[Energy Infrastructure]] — fusion/fission landscape; solar coating; building energy independence
+- [[Self Healing Concrete & Materials]] — bacterial and mineral self-repair; class implications; non-standard Vantage variant
+- [[Manufacturing & Additive Production]] — feedstock model; two stage manufacturing; design files as commodity
+- [[Building Management Systems]] — agent architecture; senate layer; leader agent; biometric integration
+- [[Infrastructure as Architecture]] — exposed services as visual language; territory marker
 
 ## NPCs
 - [[Lore/NPCs/Fitters]] — the augment installation profession; three tiers; education; economic reality
